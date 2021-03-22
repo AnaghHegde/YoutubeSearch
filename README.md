@@ -24,7 +24,6 @@ To make an API to fetch latest videos sorted in reverse chronological order of t
 - Also try and use meaningful variable/function names, and maintain indentation and code style.
 - Submission should have a `README` file containing instructions to run the server and test the API.
 - Preferred language & Framework- Python & Django
-- Send your submission (Git repository) link at chitra@fampay.in
 
 # Reference:
 
@@ -32,3 +31,5 @@ To make an API to fetch latest videos sorted in reverse chronological order of t
 - Search API reference: [https://developers.google.com/youtube/v3/docs/search/list](https://developers.google.com/youtube/v3/docs/search/list)
     - To fetch the latest videos you need to specify these: type=video, order=date, publishedAfter=<SOME_DATE_TIME>
     - Without publishedAfter, it will give you cached results which will be too old
+
+key - AIzaSyCUkmCd9jlEY-2gyTRcWlKLOkcxXWpjI98
